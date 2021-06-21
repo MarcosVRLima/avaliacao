@@ -2,10 +2,10 @@ from pessoa import Aluno
 from prova import Caderno
 
 escola = {'nome': 'EEEP Rita Aguiar',
-          'alunos': [{'matricula': '1234', 'nome': 'Pedro', 'proficiencia': '185'},
-                    {'matricula': '3216', 'nome': 'Rogerio', 'proficiencia':'127.2' },
-                    {'matricula': '3216', 'nome': 'Maria', 'proficiencia': '100.3'},
-                    {'matricula': '3216', 'nome': 'ana', 'proficiencia': '150.3'}]}
+          'alunos': [{'matricula': '1234', 'nome': 'Pedro', 'proficiencia_mt': '127.3', 'proficiencia_pt': '153.3'},
+                    {'matricula': '3216', 'nome': 'Rogerio', 'proficiencia_mt': '185.8', 'proficiencia_pt': '125.5' },
+                    {'matricula': '3216', 'nome': 'Maria', 'proficiencia_mt': '110.7', 'proficiencia_pt': '181.3'},
+                    {'matricula': '3216', 'nome': 'ana', 'proficiencia_mt': '152.9', 'proficiencia_pt': '120.9'}]}
 
 cadernos_prova = [{'disciplina': 'matemática', 'codigo': '100', 'dificuldade': '100'},
                   {'disciplina': 'matemática', 'codigo': '101', 'dificuldade': '125'},
