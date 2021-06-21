@@ -1,5 +1,5 @@
-class caderno:
+class Caderno:
     def __init__(self, disciplina, codigo, dificuldade):
-        disciplina = self.disciplina
-        codigo = self.codigo
-        dificuldade = self.dificuldade
+        self.disciplina = disciplina
+        self.codigo = codigo
+        self.dificuldade = dificuldade
