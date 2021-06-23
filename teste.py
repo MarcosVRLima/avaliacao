@@ -17,3 +17,5 @@ cadernos_prova = [{'disciplina': 'matemática', 'codigo': '100', 'dificuldade': 
                   {'disciplina': 'portugues', 'codigo': '102', 'dificuldade': '150'},
                   {'disciplina': 'portugues', 'codigo': '102', 'dificuldade': '175'},
                   {'disciplina': 'portugues', 'codigo': '108', 'dificuldade': '200'}]
+
+
