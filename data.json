@@ -1,0 +1,66 @@
+[
+   {
+      "aluno": {
+         "nome": "Pedro",
+         "matricula": "1234",
+         "proficiencia_mt": "127.3",
+         "proficiencia_lp": "153.3"
+      },
+      "caderno_mt": {
+         "codigo": "101",
+         "dificuldade": "125"
+      },
+      "caderno_lp": {
+         "codigo": "102",
+         "dificuldade": "150"
+      }
+   },
+   {
+      "aluno": {
+         "nome": "Rogerio",
+         "matricula": "3216",
+         "proficiencia_mt": "185.8",
+         "proficiencia_lp": "125.5"
+      },
+      "caderno_mt": {
+         "codigo": "106",
+         "dificuldade": "175"
+      },
+      "caderno_lp": {
+         "codigo": "103",
+         "dificuldade": "125"
+      }
+   },
+   {
+      "aluno": {
+         "nome": "Maria",
+         "matricula": "3216",
+         "proficiencia_mt": "110.7",
+         "proficiencia_lp": "181.3"
+      },
+      "caderno_mt": {
+         "codigo": "100",
+         "dificuldade": "100"
+      },
+      "caderno_lp": {
+         "codigo": "102",
+         "dificuldade": "175"
+      }
+   },
+   {
+      "aluno": {
+         "nome": "ana",
+         "matricula": "3216",
+         "proficiencia_mt": "152.9",
+         "proficiencia_lp": "120.9"
+      },
+      "caderno_mt": {
+         "codigo": "107",
+         "dificuldade": "150"
+      },
+      "caderno_lp": {
+         "codigo": "103",
+         "dificuldade": "125"
+      }
+   }
+]
